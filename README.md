@@ -105,7 +105,7 @@ Iris-Flower-Classification/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Iris-Flower-Classification.git
+git clone [https://github.com/your-username/Iris-Flower-Classification.git](https://github.com/sanchita0011singh/Iris-Flower-Classification)
 ```
 
 2. Install required libraries
