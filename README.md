@@ -1,14 +1,14 @@
- 🌸 Iris Flower Classification using Machine Learning
+# Iris Flower Classification using Machine Learning
 
- Project Overview
+## Project Overview
 
-This project demonstrates a Machine Learning classification model using the famous Iris Flower dataset. The model predicts the species of an Iris flower based on its sepal and petal measurements.
+This project demonstrates a Machine Learning classification model using the famous Iris Flower Dataset. The model predicts the species of an Iris flower based on its sepal and petal measurements.
 
-The classification is performed using the **Random Forest Classifier** from Scikit-learn.
+The classification is performed using the Random Forest Classifier from Scikit-learn.
 
 ---
 
- Objective
+## Objective
 
 - Load and explore the Iris dataset.
 - Perform data preprocessing.
@@ -19,7 +19,7 @@ The classification is performed using the **Random Forest Classifier** from Scik
 
 ---
 
- Dataset
+## Dataset
 
 The dataset contains **150 samples** of Iris flowers belonging to three species:
 
@@ -27,20 +27,20 @@ The dataset contains **150 samples** of Iris flowers belonging to three species:
 - Iris-versicolor
 - Iris-virginica
 
-Features
+### Features
 
 - Sepal Length (cm)
 - Sepal Width (cm)
 - Petal Length (cm)
 - Petal Width (cm)
 
- Target
+### Target
 
 - Species
 
 ---
 
-Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -51,13 +51,13 @@ Technologies Used
 
 ---
 
- Machine Learning Algorithm
+## Machine Learning Algorithm
 
 - Random Forest Classifier
 
 ---
 
- Project Workflow
+## Project Workflow
 
 1. Import Libraries
 2. Load Dataset
@@ -72,15 +72,15 @@ Technologies Used
 
 ---
 
- Model Performance
+## Model Performance
 
-- **Accuracy:** **100%**
+- Accuracy: **100%**
 - Classification Report Generated
 - Confusion Matrix Generated
 
 ---
 
- Data Visualization
+## Data Visualization
 
 The project includes:
 
@@ -89,9 +89,9 @@ The project includes:
 
 ---
 
- Project Structure
+## Project Structure
 
-```
+```text
 Iris-Flower-Classification/
 │── Iris_Flower_Project.ipynb
 │── Iris.csv
@@ -100,40 +100,46 @@ Iris-Flower-Classification/
 
 ---
 
- How to Run
+## How to Run
 
-1. Clone the repository
+### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/your-username/Iris-Flower-Classification.git](https://github.com/sanchita0011singh/Iris-Flower-Classification)
+git clone https://github.com/sanchita0011singh/Iris-Flower-Classification.git
 ```
 
-2. Install required libraries
+### 2. Navigate to the project folder
+
+```bash
+cd Iris-Flower-Classification
+```
+
+### 3. Install the required libraries
 
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
 ```
 
-3. Open the Jupyter Notebook
+### 4. Open Jupyter Notebook
 
 ```bash
 jupyter notebook
 ```
 
-4. Run all the cells.
+### 5. Run all the cells.
 
 ---
 
- Results
+## Results
 
-The Random Forest model achieved **100% accuracy** on the test dataset and correctly classified all Iris flower species.
+The Random Forest model achieved **100% accuracy** on the test dataset and correctly classified all three Iris flower species.
 
 ---
 
- Author
+## Author
 
 **Sanchita Singh**
 
-📧 LinkedIn: https://www.linkedin.com/in/sanchita-singh-a914aa343/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHrJlgbt3Q8WZCvqj82lV9w%3D%3D
+GitHub: https://github.com/sanchita0011singh
 
-⭐ If you found this project helpful, don't forget to star this repository!
+LinkedIn: https://www.linkedin.com/in/sanchita-singh-a914aa343/
