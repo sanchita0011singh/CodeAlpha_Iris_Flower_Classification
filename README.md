@@ -1,6 +1,6 @@
-# 🌸 Iris Flower Classification using Machine Learning
+ 🌸 Iris Flower Classification using Machine Learning
 
-## 📌 Project Overview
+ Project Overview
 
 This project demonstrates a Machine Learning classification model using the famous Iris Flower dataset. The model predicts the species of an Iris flower based on its sepal and petal measurements.
 
@@ -8,7 +8,7 @@ The classification is performed using the **Random Forest Classifier** from Scik
 
 ---
 
-## 🎯 Objective
+ Objective
 
 - Load and explore the Iris dataset.
 - Perform data preprocessing.
@@ -19,7 +19,7 @@ The classification is performed using the **Random Forest Classifier** from Scik
 
 ---
 
-## 📂 Dataset
+ Dataset
 
 The dataset contains **150 samples** of Iris flowers belonging to three species:
 
@@ -27,20 +27,20 @@ The dataset contains **150 samples** of Iris flowers belonging to three species:
 - Iris-versicolor
 - Iris-virginica
 
-### Features
+Features
 
 - Sepal Length (cm)
 - Sepal Width (cm)
 - Petal Length (cm)
 - Petal Width (cm)
 
-### Target
+ Target
 
 - Species
 
 ---
 
-## 🛠 Technologies Used
+Technologies Used
 
 - Python
 - Pandas
@@ -51,13 +51,13 @@ The dataset contains **150 samples** of Iris flowers belonging to three species:
 
 ---
 
-## 🤖 Machine Learning Algorithm
+ Machine Learning Algorithm
 
 - Random Forest Classifier
 
 ---
 
-## 📊 Project Workflow
+ Project Workflow
 
 1. Import Libraries
 2. Load Dataset
@@ -72,7 +72,7 @@ The dataset contains **150 samples** of Iris flowers belonging to three species:
 
 ---
 
-## 📈 Model Performance
+ Model Performance
 
 - **Accuracy:** **100%**
 - Classification Report Generated
@@ -80,7 +80,7 @@ The dataset contains **150 samples** of Iris flowers belonging to three species:
 
 ---
 
-## 📷 Data Visualization
+ Data Visualization
 
 The project includes:
 
@@ -89,7 +89,7 @@ The project includes:
 
 ---
 
-## 📁 Project Structure
+ Project Structure
 
 ```
 Iris-Flower-Classification/
@@ -100,7 +100,7 @@ Iris-Flower-Classification/
 
 ---
 
-## 🚀 How to Run
+ How to Run
 
 1. Clone the repository
 
@@ -124,16 +124,16 @@ jupyter notebook
 
 ---
 
-## 📌 Results
+ Results
 
 The Random Forest model achieved **100% accuracy** on the test dataset and correctly classified all Iris flower species.
 
 ---
 
-## 👩‍💻 Author
+ Author
 
 **Sanchita Singh**
 
-📧 LinkedIn: www.linkedin.com/in/sanchita-singh-003094278
+📧 LinkedIn: https://www.linkedin.com/in/sanchita-singh-a914aa343/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHrJlgbt3Q8WZCvqj82lV9w%3D%3D
 
 ⭐ If you found this project helpful, don't forget to star this repository!
